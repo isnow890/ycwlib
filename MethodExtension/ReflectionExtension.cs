@@ -21,7 +21,7 @@ namespace ChanWooLib.MethodExtension
             foreach (var propertyInfo in propertyInfos)
             {
                 if (!(propertyInfo.Name is "Item"))
-                {
+                { 
                     var prop = dub1.GetType().GetProperty(propertyInfo.Name);
                     prop.SetValue(dub1, (GetPropertyValue(t, propertyInfo.Name)), null);
                 }
