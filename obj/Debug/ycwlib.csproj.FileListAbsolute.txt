@@ -1,0 +1,5 @@
+D:\downloaded\ChanWooLib\bin\Debug\ChanWooLib.dll
+D:\downloaded\ChanWooLib\bin\Debug\ChanWooLib.pdb
+D:\downloaded\ChanWooLib\obj\Debug\ycwlib.csproj.CoreCompileInputs.cache
+D:\downloaded\ChanWooLib\obj\Debug\ChanWooLib.dll
+D:\downloaded\ChanWooLib\obj\Debug\ChanWooLib.pdb

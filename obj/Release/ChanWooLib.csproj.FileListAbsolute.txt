@@ -1,0 +1,115 @@
+D:\SVN\BarcodeProject 작업중\single\ChanWooLib\bin\Release\ChanWooLib.dll
+D:\SVN\BarcodeProject 작업중\single\ChanWooLib\bin\Release\ChanWooLib.pdb
+D:\SVN\BarcodeProject 작업중\single\ChanWooLib\obj\Release\ChanWooLib.csproj.CoreCompileInputs.cache
+D:\SVN\BarcodeProject 작업중\single\ChanWooLib\obj\Release\ChanWooLib.dll
+D:\SVN\BarcodeProject 작업중\single\ChanWooLib\obj\Release\ChanWooLib.pdb
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\bin\Release\ChanWooLib.dll
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\bin\Release\ChanWooLib.pdb
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.baml
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.baml
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.g.cs
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.g.cs
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.g.cs
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.cache
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.lref
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.baml
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib.g.resources
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib.csproj.CoreCompileInputs.cache
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib.dll
+D:\SVN\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib.pdb
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\bin\Release\ChanWooLib.dll
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\bin\Release\ChanWooLib.pdb
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib.csprojAssemblyReference.cache
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.baml
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.baml
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.g.cs
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.g.cs
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.g.cs
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.cache
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.lref
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.baml
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib.g.resources
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib.csproj.CoreCompileInputs.cache
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib.dll
+D:\SVN\참조\BarcodeProject 작업중 - 복사본\single\ChanWooLib\obj\Release\ChanWooLib.pdb
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\bin\Release\ChanWooLib.dll
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\bin\Release\ChanWooLib.pdb
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.csprojAssemblyReference.cache
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.baml
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.baml
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.g.cs
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.g.cs
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.g.cs
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.cache
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.lref
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.baml
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.g.resources
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.csproj.CoreCompileInputs.cache
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.dll
+D:\sv\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.pdb
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\bin\Release\ChanWooLib.dll
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\bin\Release\ChanWooLib.pdb
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.baml
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.baml
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.g.cs
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.g.cs
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.g.cs
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.cache
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.lref
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.baml
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.g.resources
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.csproj.CoreCompileInputs.cache
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.dll
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.pdb
+C:\Users\remote\Desktop\BarcodeProject2019_20190128\ChanWooLib\obj\Release\ChanWooLib.csprojAssemblyReference.cache
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\bin\Release\ChanWooLib.dll
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\bin\Release\ChanWooLib.pdb
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\ChanWooLib.csprojAssemblyReference.cache
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.baml
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.baml
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.g.cs
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.g.cs
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.g.cs
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.cache
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.lref
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.baml
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\ChanWooLib.g.resources
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\ChanWooLib.csproj.CoreCompileInputs.cache
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\ChanWooLib.dll
+D:\sv\BarcodeProject2019_20190128_2\ChanWooLib\obj\Release\ChanWooLib.pdb
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\bin\Release\ChanWooLib.dll
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\bin\Release\ChanWooLib.pdb
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\ChanWooLib.csprojAssemblyReference.cache
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.baml
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.baml
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.g.cs
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.g.cs
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.g.cs
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.cache
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.lref
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.baml
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\ChanWooLib.g.resources
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\ChanWooLib.csproj.CoreCompileInputs.cache
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\ChanWooLib.dll
+D:\sv\BarcodeProject2019_20190128_2 되는거\ChanWooLib\obj\Release\ChanWooLib.pdb
+D:\sv\ChanWooLib\bin\Release\ChanWooLib.dll
+D:\sv\ChanWooLib\bin\Release\ChanWooLib.pdb
+D:\sv\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.baml
+D:\sv\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.baml
+D:\sv\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar.g.cs
+D:\sv\ChanWooLib\obj\Release\UIExtension\Loading\CircularProgressBar1.g.cs
+D:\sv\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.g.cs
+D:\sv\ChanWooLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\sv\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.cache
+D:\sv\ChanWooLib\obj\Release\ChanWooLib_MarkupCompile.lref
+D:\sv\ChanWooLib\obj\Release\UIExtension\Loading\LoadingScreen.baml
+D:\sv\ChanWooLib\obj\Release\ChanWooLib.g.resources
+D:\sv\ChanWooLib\obj\Release\ChanWooLib.csproj.CoreCompileInputs.cache
+D:\sv\ChanWooLib\obj\Release\ChanWooLib.dll
+D:\sv\ChanWooLib\obj\Release\ChanWooLib.pdb
